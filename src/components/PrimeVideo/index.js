@@ -27,9 +27,9 @@ const PrimeVideo = props => {
         <MoviesSlider moviesList={actionMoviesList} />
         <h1 className="movies-heading">Comedy Movies </h1>
         <MoviesSlider moviesList={comedyMoviesList} />
-      </div>  
-    </div>      
-  )  
+      </div>
+    </div>
+  )
 }
 
 export default PrimeVideo
